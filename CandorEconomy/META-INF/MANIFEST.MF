@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: SyntexCore/libs/javassist-3.26.0-GA.jar SyntexCore/libs/reflections-0.9.12.jar
+
